@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roxx1ne
-- 👀 I’m interested in mobile dev
-- 🌱 I’m currently learning java,kotlin
+- 👀 I’m interested in webdev
+- 🌱 I’m currently learning fullstack
 - 📫 How to reach me at @naufalaulio
 
 <!---
