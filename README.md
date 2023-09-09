@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roxx1ne
 - 👀 I’m interested in webdev
-- 🌱 I’m currently learning fullstack
+- 🌱 I’m currently learning backend(golang)
 - 📫 How to reach me at @naufalaulio
 
 <!---
